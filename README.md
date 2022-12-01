@@ -43,13 +43,12 @@ an objective function will be helpful.
 ### Meaningful Explanations
 - Förster et al. (2020): _Fostering Human Agency: A Process for the Design of UserCentric XAI Systems_ [ICIS 2020 Proceedings](https://web.archive.org/web/20220802073726id_/https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1064&context=icis2020)
 - Keane (2021): _If Only We Had Better Counterfactual Explanations: Five Key Deficits to Rectify in the Evaluation of Counterfactual
-XAI Techniques._ Proceedings of the Thirtieth International Joint Conference on
-Artificial Intelligence
+XAI Techniques._ [Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence](https://www.ijcai.org/proceedings/2021/0609.pdf)
 
 ### Misleading Explanations
 
-- Lakkaraju & Bastani (2020): _"How Do I Fool You?": Manipulating User Trust via Misleading Black Box Explanations._ Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society
-- Kaur et al. (2020): _Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning_ Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems
+- Lakkaraju & Bastani (2020): _"How Do I Fool You?": Manipulating User Trust via Misleading Black Box Explanations._ [Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society](https://dl.acm.org/doi/pdf/10.1145/3375627.3375833)
+- Kaur et al. (2020): _Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning_ [Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems](http://www.jennwv.com/papers/interp-ds.pdf)
 
 ### Generating Meaningful Explanations for Real Estate Price Predictions
 
