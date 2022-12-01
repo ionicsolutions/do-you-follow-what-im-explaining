@@ -2,6 +2,10 @@
 
 Kilian Kluge @ PyData Global 2022, [December 1st, 12:00 UTC, Track II](https://global2022.pydata.org/cfp/talk/T3N9MP/)
 
+![Do You Follow What I'm Explaining? A Practitioner’s Guide to Opening the AI Black Box for Humans](./image.png)
+
+[Slides (PDF)](https://github.com/ionicsolutions/do-you-follow-what-im-explaining/blob/main/Do%20You%20Follow%20What%20Im%20Explaining%20PyData%20Global%202022.pdf)
+
 ## Abstract
 
 Methods and techniques from the realm of artificial intelligence (AI), such as machine learning,
