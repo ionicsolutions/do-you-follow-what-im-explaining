@@ -34,7 +34,18 @@ an objective function will be helpful.
 ### Evaluating Explanations
 
 - Doshi-Velez & Kim (2017): _Towards A Rigorous Science of Interpretable Machine Learning_ [arXiv:1702.08608](https://arxiv.org/abs/1702.08608)
+- Förster et al. (2020): _Evaluating Explainable Artifical Intelligence – What Users Really Appreciate_ [ECIS 2020 Proceedings](https://web.archive.org/web/20220803134652id_/https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1194&context=ecis2020_rp)
+
+### Meaningful Explanations
 - Förster et al. (2020): _Fostering Human Agency: A Process for the Design of UserCentric XAI Systems_ [ICIS 2020 Proceedings](https://web.archive.org/web/20220802073726id_/https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1064&context=icis2020)
+- Keane (2021): _If Only We Had Better Counterfactual Explanations: Five Key Deficits to Rectify in the Evaluation of Counterfactual
+XAI Techniques._ Proceedings of the Thirtieth International Joint Conference on
+Artificial Intelligence
+
+### Misleading Explanations
+
+- Lakkaraju & Bastani (2020): _"How Do I Fool You?": Manipulating User Trust via Misleading Black Box Explanations._ Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society
+- Kaur et al. (2020): _Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning_ Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems
 
 ### Generating Meaningful Explanations for Real Estate Price Predictions
 
